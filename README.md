@@ -1,13 +1,7 @@
-# MIgration-Discovery-Phase
+# Migration-Discovery-Phase
 Check list on information you should be aiming to collect during the discovery phase of your Datacentre Migration project
 
 
 ## Credits
-Written by: Sarah Lean and Janet Moss
+Written by: [Sarah Lean](http://uk.linkedin.com/in/sazlean) and [Janet Moss](https://www.linkedin.com/in/janet-moss-41737720/)
 
-Find me on:
-
-* My Blog: https://www.techielass.com
-* Twitter: https://twitter.com/techielass
-* LinkedIn: http://uk.linkedin.com/in/sazlean
-* Github: https://github.com/weeyin83
