@@ -1,5 +1,8 @@
 # Migration-Discovery-Phase
-Check list on information you should be aiming to collect during the discovery phase of your Datacentre Migration project
+
+A lot of organisations are discussing and actioning plans to migrate either part or all their workloads from on prem into the Cloud.  Regardless of how much you are moving or the size of your organisation everyone must start with the same common start point, a discovery. 
+
+This checklist can be used as a starting point to guide you on what information you need to start to collate for your discovery phase. 
 
 
 ## Credits

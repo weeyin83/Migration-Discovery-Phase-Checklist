@@ -16,7 +16,7 @@ Read through these guidelines before you get started:
 ## Questions & concerns
 
 If you have any questions about using or developing for this project, reach out
-to @{weeyin83} or send an [email][1].
+to [weeyin83][5] or send an [email][1].
 
 ## Issues & bugs
 
@@ -49,3 +49,4 @@ Please follow the coding style conventions detailed below:
 [2]: https://github.com/weeyin83/Migration-Discovery-Phase/issues/new
 [3]: https://github.com/weeyin83/Migration-Discovery-Phase/compare
 [4]: https://github.com/weeyin83/Migration-Discovery-Phase/pulls
+[5]: https://github.com/weeyin83
