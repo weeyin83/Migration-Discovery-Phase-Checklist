@@ -21,8 +21,7 @@ to [weeyin83][5] or send an [email][1].
 ## Issues & bugs
 
 Submit an [issue][2] or [pull request][3] with a fix if you would like to contribute to the checklist.. See [below](#submitting-pull-requests) for instructions on sending
-in pull requests, and be sure to reference the [code style guide](#code-style)
-first!
+in pull requests. 
 
 
 ## Submitting pull requests
@@ -39,11 +38,6 @@ to ensure you aren't duplicating anyone's work. Then, do the following:
 7. If any changes are requested by the project maintainers, make them and follow
    this process again until the changes are merged in.
 
-## Code style
-
-Please follow the coding style conventions detailed below:
-
-{guidelines}
 
 [1]: mailto:{techielass@microsoft.com}
 [2]: https://github.com/weeyin83/Migration-Discovery-Phase/issues/new
