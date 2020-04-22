@@ -10,7 +10,7 @@ The checklist is a starting point, please feel free to [contribute](contributing
 
 If you are looking to learn more about the discovery phase of a datacentre migration project please check out this blog post - [The Datacentre Migration Discovery Phrase](https://techcommunity.microsoft.com/t5/itops-talk-blog/the-datacentre-migration-discovery-phrase/ba-p/1327567?WT.mc_id=github-social-salean).
 
-If you are 'lifting and shifting' your servers to [Azure](https://azure.microsoft.com/free/?WT.mc_id=github-social-salean) there are a few things you should consider, which I discuss in this blog post - [Three things to remember when migrating servers to Azure](https://techcommunity.microsoft.com/t5/itops-talk-blog/three-things-to-remember-when-migrating-servers-to-azure/ba-p/1305901?WT.mc_id=github-social-salean)
+If you are 'lifting and shifting' your servers to [Azure](https://azure.microsoft.com/free/?WT.mc_id=github-social-salean) there are a few things you should consider, which I discuss in this blog post - [Three things to remember when migrating servers to Azure](https://techcommunity.microsoft.com/t5/itops-talk-blog/three-things-to-remember-when-migrating-servers-to-azure/ba-p/1305901?WT.mc_id=github-social-salean).
 
 ## Credits
 
