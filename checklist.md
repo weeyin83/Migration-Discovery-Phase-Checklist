@@ -1,6 +1,7 @@
 # Data Centre Migration Discovery Phase Information Gathering Checklist
 
 - [ ] Device Name
+
     _What is the device name_
 - [ ] Device Type/Model
     _What is this device, physical server, virtual, networking switch_
