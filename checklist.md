@@ -1,4 +1,4 @@
-#Data Centre Migration Discovery Phase Information Gathering Checklist
+# Data Centre Migration Discovery Phase Information Gathering Checklist
 
 - [ ] Device Name
     _What is the device name_
