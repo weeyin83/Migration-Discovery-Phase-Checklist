@@ -14,4 +14,4 @@ If you are 'lifting and shifting' your servers to [Azure](https://azure.microsof
 
 ## Credits
 
-The initial version of this checklist was compiled by [Sarah Lean](http://uk.linkedin.com/in/sazlean] and [Janet Moss](https://www.linkedin.com/in/janet-moss-41737720).
+The initial version of this checklist was compiled by [Sarah Lean](http://uk.linkedin.com/in/sazlean) and [Janet Moss](https://www.linkedin.com/in/janet-moss-41737720).
