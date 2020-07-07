@@ -49,6 +49,10 @@
 - [ ] Dependencies (what does this server interact with)
 
     _What does this server/device/workload interact with, what does it rely on what what relies on it? Data information (connection details, sources, etc)_
+    
+- [ ] Certificates
+
+    _Are there any certificate implications? Secure HTTPS website etc that need to be sourced/saved/moved?_
 
 - [ ] Availability
 
